@@ -41,7 +41,7 @@ We welcome contributions from the community to make Helpage even better. If you 
 ## Contributors
 
 - Vikesh Laharpure ([@Vikesh8107](https://github.com/Vikesh8107))
-- Kavya Thakur ([@janesmith](https://github.com/thakurkavya))
+- Kavya Thakur ([@thakurkavya](https://github.com/thakurkavya))
   
 
 ## License
