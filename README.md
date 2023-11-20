@@ -16,7 +16,7 @@ Welcome to Helpage, your one-stop solution for clumsy bookmarks! Say goodbye to 
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/your-username/Helpage.git`
+1. Clone the repository: `git clone https://github.com/Vikesh8107/Cloud_OneBoard.git`
 2. Open `index.html` in your preferred browser.
 3. Start organizing your bookmarks and enjoying a clutter-free browsing experience.
 
